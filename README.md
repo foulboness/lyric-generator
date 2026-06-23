@@ -1,5 +1,4 @@
-# Lyric Generator
-### 🎵 Do I Wanna Know? by Arctic Monkeys
+### Do I Wanna Know? by Arctic Monkeys
 
 A lightweight Python CLI project that generates lyric-style text.
 
