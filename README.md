@@ -7,9 +7,9 @@ A lightweight Python CLI project that generates lyric-style text.
 
 ## Features
 
-- Generates lyric-style lines dynamically
-- CLI-based interaction (no GUI needed)
-- Lightweight and fast (no external APIs required)
+- lyric-style lines dynamically
+- CLI-based interaction
+- Lightweight and fast
 ---
 
 ## Tech Stack
